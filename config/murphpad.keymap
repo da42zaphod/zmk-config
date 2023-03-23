@@ -11,11 +11,11 @@
 #include <dt-bindings/zmk/outputs.h>
 #include <dt-bindings/zmk/rgb.h>
 
-#define _DF
-#define _AL
-#define _LW
-#define _RE
-#define _AJ
+#define _DF  0
+#define _AL  1
+#define _LW  2
+#define _RE  3
+#define _AJ  4
 
 #define TIMEOUT 300
 
